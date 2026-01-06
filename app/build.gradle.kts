@@ -56,6 +56,7 @@ dependencies {
     implementation(libs.coroutines)
     implementation(libs.coroutines.core)
     implementation(libs.coil)
+    implementation(libs.androidx.fragment.ktx)
 
 
     testImplementation(libs.junit)

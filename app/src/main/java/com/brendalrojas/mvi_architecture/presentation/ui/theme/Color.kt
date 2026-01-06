@@ -1,4 +1,4 @@
-package com.brendalrojas.mvi_architecture.ui.theme
+package com.brendalrojas.mvi_architecture.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
